@@ -1,0 +1,1 @@
+Simple calculator designed with tkinter(a python library).

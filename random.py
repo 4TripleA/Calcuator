@@ -9,7 +9,7 @@ root.configure(bg="#17161b")
 
 equation = ""
 
-def calculate():
+def calculate(): 
     global equation
     result = ""
     if equation != "":
